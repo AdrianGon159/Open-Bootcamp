@@ -1,1 +1,0 @@
-print("Tu puta madre")
